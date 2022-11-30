@@ -1,4 +1,5 @@
-﻿namespace BulkyBookWeb.Models;
+﻿
+namespace BulkyBookWeb.Models;
 
 public class Category
 {
